@@ -1,4 +1,6 @@
 <!--lint disable no-literal-urls-->
+Hi! This is an introductory greeting before proceeding to this file!
+
 <p align="center">
   <a href="https://nodejs.org/">
     <img
